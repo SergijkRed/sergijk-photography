@@ -1,0 +1,11 @@
+sergijk-photography/
+├── index.html       (ваш HTML-код)
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── images/
+│       ├── photo1.jpg
+│       ├── photo2.jpg
+│       └── ...
+├── .gitignore
+└── README.md
